@@ -1,5 +1,3 @@
-BANNER ID: B00736197
-
 -------
 SUMMARY
 -------
@@ -111,9 +109,9 @@ TEST-->predict()		#read test dataset. based on the probability values find class
   |	
 RELEASE-->free_mem()		#free all the dynamic allocated memory.
 
----------------
-BONUS - DATASET
----------------
+----------
+EVALUATION
+----------
 [1]"UCI Machine Learning Repository: Lenses Data Set", Archive.ics.uci.edu, 2017. [Online]. Available: http://archive.ics.uci.edu/ml/datasets/Lenses. [Accessed: 28- Mar- 2017]
 
 The data set is contains atributes to classify the type of contact lens to used.
